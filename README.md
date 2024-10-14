@@ -1,22 +1,3 @@
-<p align="center">
-
-  <a href="https://github.com/ShivaBhattacharjee/portfolio-v2">
-    <img src="https://github.com/ShivaBhattacharjee/portfolio-v2/assets/95211406/708decd8-8e67-4d59-86e9-f50cac7e5d0b" alt="Logo" >
-  </a>
-<br/>
-  <h3 align="center">Portfolio 2.0</h3>
-
-  <p align="center">
-    Portfolio website for 2024 powered by Nextjs14
-    <br/>
-    <br/>
-    <br/>
-    <a href="https://theshiva.xyz/">View Demo</a>
-    .
-    <a href="https://github.com/ShivaBhattacharjee/portfolio-v2/issues">Report Bug</a>
-
-  </p>
-</p>
 
 
 
@@ -32,16 +13,6 @@
 - [License](#license)
 - [Authors](#authors)
 
-## Screenshots
-
-![image](https://github.com/ShivaBhattacharjee/portfolio-v2/assets/95211406/b45aa662-344e-4b22-a9cf-a9493ddb0a17)
-![image](https://github.com/ShivaBhattacharjee/portfolio-v2/assets/95211406/77a51a2f-3166-410d-bec6-4eff05a26966)
-
-![image](https://github.com/ShivaBhattacharjee/portfolio-v2/assets/95211406/2a45531d-974b-4a12-b590-8b0cbce7db93)
-![image](https://github.com/ShivaBhattacharjee/portfolio-v2/assets/95211406/5512410b-03e6-4101-9f12-ce38e4223137)
-
-
-## Built With
 
 Project is built using NEXTJS Tailwind TypeScript Framer-motion 
 
@@ -82,23 +53,6 @@ Rename .env.example to .env.local and fill the required values
 npm run dev
  ```
 
-
-
-## Hosting 
-* ## Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShivaBhattacharjee%portfolio-v2)
-<br/>
-<br/>
-* ## Render
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShivaBhattacharjee/portfolio-v2)
-
 ## License
 
 Distributed under the MIT License . See [LICENSE](https://github.com/ShivaBhattacharjee/portfolio-v2/blob/main/LICENSE) for more information.
-
-## Authors
-
-* **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee)
-
