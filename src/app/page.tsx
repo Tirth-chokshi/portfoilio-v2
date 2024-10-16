@@ -32,16 +32,16 @@ const page = () => {
                 </p>
                 <div className="flex items-center gap-3 lg:gap-6 flex-wrap">
                     <CopyCmd />
-                    <a href="https://github.com/shivabhattacharjee" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Tirth-chokshi" target="_blank" rel="noopener noreferrer">
                         <GitHubLogoIcon className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
-                    <a href="https://twitter.com/sh17va" target="_blank" rel="noopener noreferrer">
+                    <a href="https://twitter.com/tirth_chokshi_" target="_blank" rel="noopener noreferrer">
                         <TwitterLogoIcon className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
-                    <a href="mailto:itsshivahere@outlook.com?body=Hello" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:chokshitirth4@gmail.com?body=Hello" target="_blank" rel="noopener noreferrer">
                         <MailPlus className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
-                    <a href="https://instagram.com/shivahereig" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/tirth_chokshi" target="_blank" rel="noopener noreferrer">
                         <InstagramLogoIcon className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
                 </div>
