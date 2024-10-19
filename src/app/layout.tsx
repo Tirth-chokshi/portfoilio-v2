@@ -13,6 +13,9 @@ const inter = Roboto({ weight: "400", style: "normal", subsets: ["greek"] });
 export const metadata: Metadata = {
     title: "Home - Tirth ",
     description: "Hello there I am Tirth a full stack developer and I love to build products that make people's life easier.",
+    icons: {
+    icon: '/t.png',
+  },
 };
 
 export default function RootLayout({
