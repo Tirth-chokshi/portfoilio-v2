@@ -1,7 +1,7 @@
     import { animetriximg, muxikimg, quibbleimg, recordify, sso, synthiaimg, trimImg, wasteeasy } from "./index";
 export const projectArray = [
     {
-        name: "Animetrix",
+        name: "LyricSense",
         description: "Anime Trix is a full stack anime streaming / downloading site developed in NEXTJS 13.5 and TYPESCRIPT that offers a vast collection of anime shows for streaming and downloading. With a user-friendly interface, you can easily find your favorite anime shows and watch them in high-definition quality.",
         image: animetriximg,
         type: "open source",
@@ -9,7 +9,7 @@ export const projectArray = [
         githubLink: "https://www.github.com/shivabhattacharjee/animetrix-next",
     },
     {
-        name: "Waste Easy",
+        name: "vocalcare",
         description: "WasteEasy is an app designed to streamline waste management. Developed during the Envision Hackathon, it focuses on waste classification and encourages proper waste segregation. Users can earn points or coupons by utilizing WasteEasy for their waste disposal needs.",
         image: wasteeasy,
         type: "Hackathon Project",
@@ -17,7 +17,7 @@ export const projectArray = [
         githubLink: "https://www.github.com/shivabhattacharjee/wasteeasy",
     },
     {
-        name: "SSO-Auth",
+        name: "QuerySage-AI",
         description: "SSO is a Single Sign-On (SSO) system that allows users to seamlessly authenticate across multiple applications using a single set of credentials. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, SSO offers a secure and efficient way to manage user authentication",
         image: sso,
         type: "Open Source",
@@ -25,7 +25,7 @@ export const projectArray = [
         githubLink: "https://www.github.com/shivabhattacharjee/sso",
     },
     {
-        name: "Trim",
+        name: "VideoTapeVisuals",
         description: "Trim is a sleek and efficient URL shortener project developed using Next.js .  With Trim, users can easily shorten lengthy URLs into concise, manageable links, making sharing and distributing web addresses more convenient",
         image: trimImg,
         type: "open source",
@@ -33,10 +33,10 @@ export const projectArray = [
         githubLink: "https://www.github.com/shivabhattacharjee/trim",
     },
     {
-        name: "Quibble",
+        name: "Persona Builder",
         description: "Quibble, a content generation bot, simplifies and elevates your creative process developed in NEXTJS 14 and TYPESCRIPT. Whether crafting engaging blog posts, soulful song lyrics, or attention-grabbing Insta captions, Quibble's advanced algorithms seamlessly transform your ideas into polished, professional content.",
         image: quibbleimg,
-        type: "open source",
+        type: "Hackthon Porject",
         hostedLink: "https://quibble.theshiva.xyz",
         githubLink: "https://www.github.com/shivabhattacharjee/quibble",
     },
