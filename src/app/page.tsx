@@ -10,7 +10,7 @@ import CopyCmd from "@/components/CopyCmd";
 import Card from "@/components/projects/card";
 import Contact from "@/components/shared/Contact";
 import Skills from "@/components/skills/Skills";
-// import Terminalcomp from "@/components/terminal/Terminalcomp";
+import Terminalcomp from "@/components/terminal/Terminalcomp";
 import TypingAnimation from "@/components/TypingAnimation";
 const page = () => {
     return (
@@ -57,7 +57,7 @@ const page = () => {
                     <div className="own</span>flex items-center gap-4 mb-3 text-3xl font-medium tracking-wide">
                         <span className=" w-14 h-[2px] bg-green-500"></span> Terminal
                     </div>
-                    {/* <Terminalcomp /> */}
+                    <Terminalcomp />
                 </div>
 
                 {/* projects */}
