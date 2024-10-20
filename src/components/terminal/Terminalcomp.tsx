@@ -75,8 +75,8 @@ const Terminalcomp: React.FC = () => {
                 window.location.href = "https://www.youtube.com/watch?v=hf1DkBQRQj4";
                 output = "";
                 break;
-            case "shiva":
-                output = "Hello there! I am Shiva, a Full Stack Developer experienced in the MERN stack, currently pursuing my Bachelor's  in Computer Science and Engineering. Type about to know more about me";
+            case "tirth":
+                output = "Hello there! I am Tirth, a Full Stack Developer experienced in the MERN stack, currently pursuing my Bachelor's  in Computer Applications. Type about to know more about me";
                 break;
             case "neofetch":
                 window.location.href = "https://www.youtube.com/watch?v=Rl1ImG2b1k8&t=51s";
@@ -97,19 +97,19 @@ const Terminalcomp: React.FC = () => {
             case "proj ls":
                 output = (
                     <ul>
-                        <li>Animetrix</li>
-                        <li>Vermilion</li>
-                        <li>Muxik</li>
-                        <li>Quibble</li>
-                        <li>Synthia</li>
+                        <li>LyricSense</li>
+                        <li>QuerySage-AI</li>
+                        <li>VideoTapeVisuals</li>
+                        <li>vocalcare</li>
+                        <li>Persona Builder</li>
                     </ul>
                 );
                 break;
             case "help":
                 output = <HelpCommand />;
                 break;
-            case "quibble":
-                window.location.href = "https://quibbleai.vercel.app";
+            case "lyricsense":
+                window.location.href = "https://lyricsense-ai.vercel.app";
                 output = "";
                 break;
             case "animetrix":
@@ -175,7 +175,7 @@ const Terminalcomp: React.FC = () => {
                     <div className="w-3 h-3 duration-200 cursor-pointer bg-yellow-500 rounded-full"></div>
                     <div className="w-3 h-3 cursor-pointer duration-200 bg-green-500 rounded-full"></div>
                 </div>
-                <h1>theshiva.xyz</h1>
+                <h1>tirth.xyz</h1>
                 <span className="border flex gap-1 font-medium text-sm border-white/30 rounded-lg p-2 justify-center items-center">
                     <TerminalSquare size={17} />
                     zsh
