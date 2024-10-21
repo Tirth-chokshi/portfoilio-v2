@@ -29,8 +29,8 @@ export const projectArray = [
         description: "Generate your business car in style of American psycho, Your premier destination for crafting business cards that would make Patrick Bateman 🔪 envious.",
         image: trimImg,
         type: "open source",
-        hostedLink: "https://trim.theshiva.xyz",
-        githubLink: "https://www.github.com/shivabhattacharjee/trim",
+        hostedLink: "https://videotapevisuals.vercel.app",
+        githubLink: "https://github.com/Tirth-chokshi/VideoTapeVisuals",
     },
     {
         name: "Persona Builder",
