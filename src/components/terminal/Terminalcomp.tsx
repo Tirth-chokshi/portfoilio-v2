@@ -134,11 +134,11 @@ const Terminalcomp: React.FC = () => {
                 } else if (command.startsWith("rm")) {
                     window.location.href = "https://www.youtube.com/watch?v=AlLhMySQTlo";
                     output = "";
-                } else if (command.includes("apt")) {
+                } else if (command.includes("you")) {
                     output = "You are a reliable person";
-                } else if (command.includes("pacman")) {
+                } else if (command.includes("blade")) {
                     output = "certified racist and a virgin (likes to go fast)";
-                } else if (command.includes("dnf")) {
+                } else if (command.includes("speed")) {
                     output = "gets the job done slowly but surely";
                 } else if (/^\d+[+\-*/]\d+$/.test(command)) {
                     try {

@@ -1,7 +1,7 @@
 import docker from "./docker.svg";
 import postgresssql from "./elephant.png";
 import git from "./Git-Icon-1788C.svg";
-import go from "./go.svg";
+import go from "./php.svg";
 import mongodb from "./mongodb.svg";
 import mysql from "./mysql.svg";
 import nextjs from "./nextjs-transparent.svg";
@@ -10,7 +10,7 @@ import python from "./python-logo-only.png";
 import react from "./react.svg";
 import redis from "./redis-logo-full-color-rgb.svg";
 import redux from "./redux.svg";
-import rust from "./rust.svg";
+import rust from "./java.svg";
 import socketio from "./Socket-io.svg";
 import tailwind from "./tailwind.svg";
 import ts from "./ts.svg";

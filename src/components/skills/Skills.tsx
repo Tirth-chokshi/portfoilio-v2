@@ -4,7 +4,7 @@ import { Pi } from "lucide-react";
 import { TechStack } from "./stacks";
 
 const Skills = () => {
-    const skills = ["React", "Next.js", "Typescript", "Tailwind CSS", "Rust", "Docker", "SQL", "MongoDB", "NodeJS", "Redux", "Socket.io", "Python", "GIT", "GO"];
+    const skills = ["React", "Next.js", "Typescript", "Tailwind CSS", "Java", "Docker", "SQL", "MongoDB", "NodeJS", "Redux", "Socket.io", "Python", "GIT", "PHP"];
     return (
         <div className=" mt-8 w-full flex md:justify-center md:items-center md:text-center flex-col lg:mt-28">
             <h1 className=" text-4xl flex gap-2 items-center tracking-wide lg:text-7xl font-bold  md:border-b-2 ">
